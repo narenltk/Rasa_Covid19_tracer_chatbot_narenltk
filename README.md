@@ -41,3 +41,9 @@ or if your using rasa x then
 rasa x
 ```
 8. Well you have reached this far, so you can now enter your enter the state you want
+
+Output:
+
+<p align="center">
+  <img src="img/rasaoutput.JPG">
+</p>
