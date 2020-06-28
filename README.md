@@ -53,3 +53,10 @@ Output:
 <p align="center">
   <img src="img/rasaoutput.JPG">
 </p>
+
+
+9. If your connecting your rasa chatbot with webpage then you the following command,
+
+```
+rasa run -m models --enable-api --cors "*" --debug
+```
