@@ -25,7 +25,7 @@ colorama==0.4.3
 colorclass==2.2.0
 coloredlogs==10.0
 colorhash==1.0.2
-cookiecutter==1.7.2
+cookiecutter==2.1.1
 cryptography==3.2
 cycler==0.10.0
 datedelta==1.3
