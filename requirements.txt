@@ -70,7 +70,7 @@ isodate==0.6.0
 itsdangerous==1.1.0
 jinja2-time==0.2.0
 jmespath==0.10.0
-joblib==0.15.1
+joblib==1.2.0
 jsonpickle==1.4.1
 jsonschema==3.2.0
 kafka-python==1.4.7
